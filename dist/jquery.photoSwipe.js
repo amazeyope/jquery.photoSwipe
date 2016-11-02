@@ -2,10 +2,10 @@
  * Created by yope on 2016/11/1.
  * version:1.0.0
  *
- * 图片放大初始化插件工具
+ * 图片放大浏览工具
  * 快速入手使用说明
  *
- * 1.引入如下五个文件 ：地址仅供参考
+ * 1.引入如下6个文件 ：地址仅供参考
  *  <link rel="stylesheet" href="../lib/photoSwipe/photoswipe.css">
  *  <link rel="stylesheet" href="../lib/photoSwipe/default-skin/default-skin.css">
  *
