@@ -1,11 +1,11 @@
 # jquery.photoSwipe
-图片放大工具
+图片放大浏览工具（移动端和pc端都能很好的支持）
 
 #写在前面
 
-项目中需要用到图片放大的功能，知道 [photoswipe](https://github.com/dimsemenov/PhotoSwipe) 很不错，但是每次使用的时候都要帮一堆相同的代码，
-虽然工作量不大，可是这样的话总觉得不够优雅。所以我们就把他的功能简单的封装，让我们photoswipe
-的使用者快速上手。
+项目中需要用到图片放大的功能，知道 [photoswipe](https://github.com/dimsemenov/PhotoSwipe) 很不错，
+但是每次使用的时候都要搬来一堆相同的代码， 虽然工作量不大，可是这样的话总觉得不够优雅。所以我们就把她的
+功能简单的封装，让我们的使用者快速上手。
 
 #功能说明
 
