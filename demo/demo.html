@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jquery.photoSwipe.js demo</title>
+    <link rel="stylesheet" href="lib/photoSwipe/photoswipe.css">
+    <link rel="stylesheet" href="lib/photoSwipe/default-skin/default-skin.css">
+    <style>
+        .img-list>img{
+            width: 300px;
+            height: 300px;
+        }
+    </style>
+    <script src="//cdn.bootcss.com/jquery/1.12.3/jquery.js"></script>
+    <script type="text/javascript" src="lib/photoSwipe/photoswipe.js"></script>
+    <script type="text/javascript" src="lib/photoSwipe/photoswipe-ui-default.js"></script>
+    <script type="text/javascript" src="../dist/jquery.photoSwipe.js"></script>
+    <script>
+        $(function () {
+            $.photoSwipeInit();
+        });
+    </script>
+</head>
+<body>
+
+<div class="img-list">
+<img class="enlarge-img" src="images/1.jpg">
+<img class="enlarge-img" src="images/2.jpg">
+<img class="enlarge-img" src="images/3.jpg">
+<img class="enlarge-img" src="images/4.jpg">
+</div>
+</body>
+</html>
